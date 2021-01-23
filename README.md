@@ -14,22 +14,28 @@ Here I started learning this pyhton's pandas library as it is in my course of **
 * **Pandas**
 * **Numpy**
 * **Matplotlib**
-* And many other related to this.😎
+* **And many other related topics** 😎
 
 #### ***SOME OF THE USEFUL LINKS:***
-* https://www.w3schools.com/python/numpy_creating_arrays.asp
-* https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
-* https://www.w3resource.com/python-exercises/pandas/index.php
-* https://www.kaggle.com/bhasha4995dushara/pandas-exercise-1
-* https://www.stats.govt.nz/large-datasets/csv-files-for-download/
-* https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil
-* https://pynative.com/python-pandas-exercise/
-* https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/
-* https://www.machinelearningplus.com/python/101-pandas-exercises-python/
-* https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/
-* https://www.kaggle.com/python10pm/pandas-75-exercises-with-solutions
+```
+Description: The purpose of sharing these links are for providing the resources at one place to help readers. 
+```
+* [Numpy - w3schools](https://www.w3schools.com/python/numpy_creating_arrays.asp)
+* [10min to pandas - pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
+* [Pandas Tutorials - data36.com](https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/)
+* [Data visualizatin - Matplotlib/pyplot- matplotlib.org](https://matplotlib.org/tutorials/introductory/pyplot.html)
+* [Matplotlib - edureka.co](https://www.edureka.co/blog/python-matplotlib-tutorial/?ranMID=42536&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-ePKHCONGTR9bJ0np9Z_nUw&LSNSUBSITE=Omitted_a1LgFw09t88)
+* [Pandas Excercises - w3resource.com](https://www.w3resource.com/python-exercises/pandas/index.php)
+* [Pandas Learning - kaggle.com](https://www.kaggle.com/bhasha4995dushara/pandas-exercise-1)
+* [Datasets- stats.govt.nz](https://www.stats.govt.nz/large-datasets/csv-files-for-download/)
+* [Dataset Forest Fire **(here used)** - kaggle.com](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)
+* [Pandas Excercise Learning- pynative.com](https://pynative.com/python-pandas-exercise/)
+* [Learnign Pandas - GfG](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/)
+* [101Pandas - machinelearnigplus.com](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+* [Introduction to Seaborn- seaborn.pydata.org](https://seaborn.pydata.org/introduction.html)
+* [Seaborn ploting Graphs- GfG](https://www.geeksforgeeks.org/plotting-graph-using-seaborn-python/)
 
-#### ***Any kind of change or any advice or something else will always be welcomed.*** 😃
+#### ***Any kind of change or any advice or any kind of help will always be welcomed.*** 😃
 
 
 ##### ***Thanks!***
