@@ -36,9 +36,10 @@ The purpose of sharing these links are for providing the resources at one place 
 * [Introduction to Seaborn- seaborn.pydata.org](https://seaborn.pydata.org/introduction.html)
 * [Seaborn ploting Graphs- GfG](https://www.geeksforgeeks.org/plotting-graph-using-seaborn-python/)
 ```
- ***Any kind of change or any advice or any kind of help will always be welcomed.*** 😃
+ Any kind of change or any advice or any kind of help will always be welcomed. 😃
 ```
 👀 [***CODE***](https://github.com/SaniTheWay/Pandas_IoT_BigData/blob/main/Sanidhya_IoT_A1.ipynb)
+
 Download .ipynb file [📥](Sanidhya_IoT_A1.ipynb) 
 
 ##### ***Thanks!***
@@ -48,6 +49,6 @@ Download .ipynb file [📥](Sanidhya_IoT_A1.ipynb)
     Author:
  Sanidhya Dave
  sanithe_way©
-    2021                           
+       2021                           
  ```
 </div>
