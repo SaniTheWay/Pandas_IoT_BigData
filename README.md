@@ -35,18 +35,19 @@ The purpose of sharing these links are for providing the resources at one place 
 * [101Pandas - machinelearnigplus.com](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 * [Introduction to Seaborn- seaborn.pydata.org](https://seaborn.pydata.org/introduction.html)
 * [Seaborn ploting Graphs- GfG](https://www.geeksforgeeks.org/plotting-graph-using-seaborn-python/)
-
-#### ***Any kind of change or any advice or any kind of help will always be welcomed.*** 😃
-
-👀[***CODE***](Sanidhya_IoT_A1.ipynb)
+```
+ ***Any kind of change or any advice or any kind of help will always be welcomed.*** 😃
+```
+👀 [***CODE***](https://github.com/SaniTheWay/Pandas_IoT_BigData/blob/main/Sanidhya_IoT_A1.ipynb)
+Download .ipynb file [📥](Sanidhya_IoT_A1.ipynb) 
 
 ##### ***Thanks!***
 <div align='center'>
 
   ```
-                                                            Author:
-                                                         Sanidhya Dave
-                                                          sanithe_way©
-                                                             2021                           
+    Author:
+ Sanidhya Dave
+ sanithe_way©
+    2021                           
  ```
-  </div>
+</div>
