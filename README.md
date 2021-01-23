@@ -2,7 +2,7 @@
   <img src="Images/Banner.png"><br>
 </div>
 
-# Pandas_IoT_BigData
+# [Pandas_IoT_BigData](Sanidhya_IoT_A1.ipynb)
 
 ---
 
@@ -18,7 +18,8 @@ Here I started learning this pyhton's pandas library as it is in my course of **
 
 #### ***SOME OF THE USEFUL LINKS:***
 ```
-Description: The purpose of sharing these links are for providing the resources at one place to help readers. 
+Description: 
+The purpose of sharing these links are for providing the resources at one place to help readers. 
 ```
 * [Numpy - w3schools](https://www.w3schools.com/python/numpy_creating_arrays.asp)
 * [10min to pandas - pandas.pydata.org](https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html)
@@ -37,5 +38,15 @@ Description: The purpose of sharing these links are for providing the resources 
 
 #### ***Any kind of change or any advice or any kind of help will always be welcomed.*** 😃
 
+👀[***CODE***](Sanidhya_IoT_A1.ipynb)
 
 ##### ***Thanks!***
+<div align='center'>
+
+  ```
+                                                            Author:
+                                                         Sanidhya Dave
+                                                          sanithe_way©
+                                                             2021                           
+ ```
+  </div>
