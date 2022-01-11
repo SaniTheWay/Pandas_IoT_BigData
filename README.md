@@ -31,7 +31,7 @@ The purpose of sharing these links are for providing the resources at one place 
 * [Datasets- stats.govt.nz](https://www.stats.govt.nz/large-datasets/csv-files-for-download/)
 * [Dataset Forest Fire **(here used)** - kaggle.com](https://www.kaggle.com/gustavomodelli/forest-fires-in-brazil)
 * [Pandas Excercise Learning- pynative.com](https://pynative.com/python-pandas-exercise/)
-* [Learnign Pandas - GfG](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/)
+* [Learning Pandas - GfG](https://www.geeksforgeeks.org/pandas-practice-excercises-questions-and-solutions/)
 * [101Pandas - machinelearnigplus.com](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 * [Introduction to Seaborn- seaborn.pydata.org](https://seaborn.pydata.org/introduction.html)
 * [Seaborn ploting Graphs- GfG](https://www.geeksforgeeks.org/plotting-graph-using-seaborn-python/)
